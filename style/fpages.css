@@ -1,0 +1,84 @@
+body{
+  width: auto;
+  background-color: #f0ecf8;
+}
+
+table{
+  background-color: #f0ecf8;
+  table-layout: fixed;
+
+}
+
+.blockmain{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  width: 800PX;
+  height: auto;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid #DDDDDD;
+  box-shadow: 0 0 0 0;
+  padding: 1px;
+  border-spacing: 40px 40px;
+  border-top: 10px solid #9900FF;
+}
+.block{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  width: 800PX;
+  height: auto;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid #DDDDDD;
+  box-shadow: 0 0 0 0;
+  padding: 1px;
+  border-spacing: 40px 40px;
+
+}
+.block:hover{
+  border-left: 7px solid #9900FF;
+  box-shadow: 0 0 0 0;
+  box-shadow: 0 3px 5px rgba(0,0,0,0.5);
+}
+p{
+  margin: 10px 0;
+  border-bottom: 1px dotted #CCCCCC;
+}
+
+.in{
+  border: 0;
+  border-bottom: 2px solid #CCCCCC;
+}
+
+.text{
+  font-family: "Arial";
+  font-size: 18px;
+
+}
+.text1{
+  font-family: "Arial";
+  font-size: 12px;
+
+}
+.text2{
+  font-family: "Arial";
+  font-size: 16px;
+
+}
+textarea{
+  resize: vertical;
+}
+.zac{
+  margin: 20px;
+  text-align: left;
+  font-family: "Arial";
+  font-size: 40px;
+}
+.zac1{
+  margin: 20px;
+  text-align: left;
+  font-family: "Arial";
+  font-size: 30px;
+}

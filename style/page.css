@@ -1,0 +1,61 @@
+body{
+  width: auto;
+  background-color: #f0ecf8;
+}
+
+table{
+  background-color: #ffffff;
+  display: table-rows;
+  table-layout: fixed;
+
+}
+
+.base{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  width: 400PX;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid #DDDDDD;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.5);
+  padding: 1px;
+  border-top: 10px solid #9900FF;
+  border-spacing: 40px 40px;
+  display: table;
+  table-layout: fixed;
+
+}
+
+p{
+  margin: 10px 0;
+  border-bottom: 1px dotted #CCCCCC;
+}
+
+.in{
+  border: 0;
+  border-bottom: 2px solid #CCCCCC;
+}
+
+.text{
+  font-family: "Arial";
+  font-size: 18px;
+
+}
+.text1{
+  font-family: "Arial";
+  font-size: 12px;
+
+}
+.text2{
+  font-family: "Arial";
+  font-size: 16spx;
+
+}
+textarea{
+  resize: vertical;
+}
+.zac{
+  font-family: "Arial";
+  font-size: 30px;
+}
